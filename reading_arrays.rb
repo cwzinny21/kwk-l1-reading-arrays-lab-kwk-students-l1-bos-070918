@@ -23,6 +23,11 @@ end
 # puts first_student_by_index
 
 
+def fourth_student_by_index
+  puts STUDENT_NAMES[3]
+end 
+
+
 def last_student_by_method
   STUDENT_NAMES[5]
 end
@@ -36,10 +41,6 @@ end
 
 # puts first_second_and_third_students
 
-
-def fourth_student_by_index
-  puts STUDENT_NAMES[3]
-end 
 
 # puts fourth_student_by_index
 
