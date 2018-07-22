@@ -40,4 +40,7 @@ puts first_second_and_third_students
 
 def fourth_student_by_index
   puts STUDENT_NAMES[3]
+end 
+
+puts fourth_student_by_index
 
