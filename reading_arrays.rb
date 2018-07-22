@@ -42,5 +42,5 @@ def fourth_student_by_index
   puts STUDENT_NAMES[3]
 end 
 
-return fourth_student_by_index
+puts fourth_student_by_index
 
